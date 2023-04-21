@@ -1,6 +1,6 @@
 # Fees Calculator
 
-Fees Calculator is a simple web application that allows users to select a type of fee and calculate the amount of fees based on the selection. It is built using React.js for the frontend, Tailwind CSS for styling, and Parcel for bundling web applications quickly and easily.
+Fees Calculator is a simple web application that allows users to select a type of fee and calculate the amount of fees based on the selection. It is built using React.js for the frontend, Tailwind CSS for styling, and Parcel for bundling web applications 
 
 ## Project Setup
 
