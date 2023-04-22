@@ -14,3 +14,5 @@ To get started with the project, follow these steps:
 
 To run the project, use the following command:
 type `npm start` 
+
+This will start the project and you should be able to access it at http://localhost:1234 in your web browser.
